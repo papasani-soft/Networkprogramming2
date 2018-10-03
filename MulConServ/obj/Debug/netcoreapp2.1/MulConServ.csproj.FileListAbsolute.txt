@@ -1,0 +1,11 @@
+F:\dotnet1\MulConServ\MulConServ\bin\Debug\netcoreapp2.1\MulConServ.deps.json
+F:\dotnet1\MulConServ\MulConServ\bin\Debug\netcoreapp2.1\MulConServ.runtimeconfig.json
+F:\dotnet1\MulConServ\MulConServ\bin\Debug\netcoreapp2.1\MulConServ.runtimeconfig.dev.json
+F:\dotnet1\MulConServ\MulConServ\bin\Debug\netcoreapp2.1\MulConServ.dll
+F:\dotnet1\MulConServ\MulConServ\bin\Debug\netcoreapp2.1\MulConServ.pdb
+F:\dotnet1\MulConServ\MulConServ\obj\Debug\netcoreapp2.1\MulConServ.csprojAssemblyReference.cache
+F:\dotnet1\MulConServ\MulConServ\obj\Debug\netcoreapp2.1\MulConServ.csproj.CoreCompileInputs.cache
+F:\dotnet1\MulConServ\MulConServ\obj\Debug\netcoreapp2.1\MulConServ.AssemblyInfoInputs.cache
+F:\dotnet1\MulConServ\MulConServ\obj\Debug\netcoreapp2.1\MulConServ.AssemblyInfo.cs
+F:\dotnet1\MulConServ\MulConServ\obj\Debug\netcoreapp2.1\MulConServ.dll
+F:\dotnet1\MulConServ\MulConServ\obj\Debug\netcoreapp2.1\MulConServ.pdb

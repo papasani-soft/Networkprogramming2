@@ -1,0 +1,11 @@
+F:\dotnet1\MSClient\MSClient\bin\Debug\netcoreapp2.1\MSClient.deps.json
+F:\dotnet1\MSClient\MSClient\bin\Debug\netcoreapp2.1\MSClient.runtimeconfig.json
+F:\dotnet1\MSClient\MSClient\bin\Debug\netcoreapp2.1\MSClient.runtimeconfig.dev.json
+F:\dotnet1\MSClient\MSClient\bin\Debug\netcoreapp2.1\MSClient.dll
+F:\dotnet1\MSClient\MSClient\bin\Debug\netcoreapp2.1\MSClient.pdb
+F:\dotnet1\MSClient\MSClient\obj\Debug\netcoreapp2.1\MSClient.csprojAssemblyReference.cache
+F:\dotnet1\MSClient\MSClient\obj\Debug\netcoreapp2.1\MSClient.csproj.CoreCompileInputs.cache
+F:\dotnet1\MSClient\MSClient\obj\Debug\netcoreapp2.1\MSClient.AssemblyInfoInputs.cache
+F:\dotnet1\MSClient\MSClient\obj\Debug\netcoreapp2.1\MSClient.AssemblyInfo.cs
+F:\dotnet1\MSClient\MSClient\obj\Debug\netcoreapp2.1\MSClient.dll
+F:\dotnet1\MSClient\MSClient\obj\Debug\netcoreapp2.1\MSClient.pdb
